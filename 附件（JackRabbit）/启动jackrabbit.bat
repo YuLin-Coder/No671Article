@@ -1,0 +1,1 @@
+java -jar jackrabbit-standalone-2.4.3.jar -p7000
